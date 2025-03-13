@@ -1,7 +1,7 @@
 ---
-title: Blog Đầu Tiên - Tạo Website Folio và Blog Cá Nhân
+title: Blog Đầu Tiên - Tạo Website Folio cá nhân
 date: "2025-03-13T10:00:00.000Z"
-description: "Blog đầu tiên về việc tạo trang web folio và suy nghĩ về việc chuyển đến Hà Nội."
+description: "Blog đầu tiên về việc tạo trang web folio cá nhân."
 ---
 
 Chào mọi người! Đây là bài viết blog đầu tiên của tôi. Hôm nay, tôi đang bắt đầu một dự án khá thú vị: tạo một trang web folio cá nhân và một trang blog để chia sẻ những suy nghĩ, dự án và trải nghiệm của mình. (Thực tế là bốc source trên mạng về dùng thôi hihi!)

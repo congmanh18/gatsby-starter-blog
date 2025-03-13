@@ -9,15 +9,15 @@
  */
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `Nguyen Cong Manh`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `Lucas Dev`,
+      summary: `budding developer from Binh Dinh`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
+    description: `A personal blog about my journey as a developer.`,
+    siteUrl: `https://congmanh18-folio.vercel.app`,
     social: {
-      twitter: `kylemathews`,
+      facebook: `congmanh1801`,
     },
   },
   plugins: [
